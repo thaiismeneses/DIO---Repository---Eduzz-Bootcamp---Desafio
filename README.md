@@ -1,2 +1,2 @@
-# DIO---Repository---GIT-GUTHUB---Desafio
+# DIO - Repository - Eduzz Boootcamp - Desafio
 Primeiro Repositório Desafio
